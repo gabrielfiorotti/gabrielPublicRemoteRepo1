@@ -10,8 +10,4 @@
 - Connect Your Public Repository to Visual Studio Code
 - Make Changes, Commit, and Push to Remote Repository Using Sync Changes
 
-<<<<<<< HEAD
-Local change made by Gabriel Fiorotti
-=======
-Remote change made by Gabriel Fiorotti
->>>>>>> origin/main
+Local change made by Gabriel and Remote change made by Gabriel.
