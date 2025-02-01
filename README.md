@@ -9,3 +9,5 @@
 - Resolving Merge Conflicts
 - Connect Your Public Repository to Visual Studio Code
 - Make Changes, Commit, and Push to Remote Repository Using Sync Changes
+
+Local change made by Gabriel Fiorotti
